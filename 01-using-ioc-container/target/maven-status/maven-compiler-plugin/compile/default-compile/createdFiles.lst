@@ -1,0 +1,6 @@
+com\jdc\assignment\controller\CourseServlet.class
+com\jdc\assignment\domain\OpenClass.class
+com\jdc\assignment\controller\RegisterationServlet.class
+com\jdc\assignment\domain\Course.class
+com\jdc\assignment\controller\OpenClassServlet.class
+com\jdc\assignment\domain\Registeration.class
